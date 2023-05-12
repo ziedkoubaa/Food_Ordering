@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Food Ordering</string>
+    <string name="btntoserver">Envoyer un message au serveur</string>
+    <string name="msgfrmclient">Message du client</string>
+    <string name="livechat">Chat en direct</string>
+    <string name="usr">Nom d’utilisateur</string>
+    <string name="pass">Mot de passe</string>
+    <string name="signin">Se connecter</string>
+    <string name="returntxt">Retour</string>
+    <string name="retpass">Retaper le mot de passe</string>
+    <string name="regi">S\' inscrire</string>
+</resources>

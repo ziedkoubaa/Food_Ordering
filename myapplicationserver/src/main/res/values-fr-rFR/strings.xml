@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Server</string>
+    <string name="startserver">Démarrer le serveur</string>
+    <string name="msgfrmserver">Message du serveur</string>
+    <string name="btntoclient">Envoyer un message au client</string>
+</resources>

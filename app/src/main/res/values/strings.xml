@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Food Ordering</string>
+    <string name="btntoserver">Send Message to server</string>
+    <string name="msgfrmclient">Message from Client</string>
+    <string name="livechat">Live Chat</string>
+    <string name="usr">User Name</string>
+    <string name="pass">Password</string>
+    <string name="signin">Sign in</string>
+    <string name="returntxt">Return</string>
+    <string name="retpass">Retype Password</string>
+    <string name="regi">Register</string>
+
+</resources>
